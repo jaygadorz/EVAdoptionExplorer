@@ -1,6 +1,5 @@
 
 
-
     -- BEGIN CREATION OF STORED PROC OF EV Electric Range
 
 

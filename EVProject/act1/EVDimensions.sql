@@ -60,6 +60,5 @@ CREATE OR ALTER PROCEDURE SP_EVDimensions
     -- SUCCESSFULLY ADDED
     -- RUNNING UNIT TESTING
 
-    USE jgdigitaldB
 
-    EXEC SP_EVAdoptionElectricRange
+
