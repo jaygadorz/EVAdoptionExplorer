@@ -1,5 +1,5 @@
 
-# "Storyline: 
+# Storyline
 
 This dashboard enables the audience to understand the current landscape of electric vehicle adoption in Washington State. It reveals the structure of the EV ecosystem, highlights where adoption is most concentrated, and showcases the vehicles and technologies driving the transition — all based on a representative dataset of 100,000 records from Washington State.
 
